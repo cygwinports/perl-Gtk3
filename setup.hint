@@ -1,6 +1,0 @@
-category: Perl Gnome
-requires: perl perl-Glib-Object-Introspection girepository-Pango1.0 girepository-Gtk3.0
-sdesc: "Perl Gtk+ 3.x bindings"
-ldesc: "Perl bindings to the 3.x series of the Gtk+ graphical user 
-interface library.  This module allows you to write graphical user 
-interfaces in a perlish and object-oriented way."
