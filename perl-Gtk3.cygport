@@ -1,7 +1,7 @@
 inherit gtk2-perl
 
 NAME="perl-Gtk3"
-VERSION=0.009
+VERSION=0.016
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl Gtk+ 3.x bindings"
@@ -9,3 +9,5 @@ DESCRIPTION="Perl bindings to the 3.x series of the Gtk+ graphical user
 interface library.  This module allows you to write graphical user
 interfaces in a perlish and object-oriented way."
 REQUIRES="girepository-Gtk3.0"
+
+ARCH=noarch
