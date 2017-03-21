@@ -1,7 +1,7 @@
 inherit gtk2-perl
 
 NAME="perl-Gtk3"
-VERSION=0.021
+VERSION=0.030
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl Gtk+ 3.x bindings"
